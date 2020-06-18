@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AdvDjVs", "AdvDjVs\AdvDjVs.pyproj", "{4AC161EE-8D6D-48BA-A765-6A7A41A0572E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC161EE-8D6D-48BA-A765-6A7A41A0572E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC161EE-8D6D-48BA-A765-6A7A41A0572E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC161EE-8D6D-48BA-A765-6A7A41A0572E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC161EE-8D6D-48BA-A765-6A7A41A0572E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4178EAA5-5DC8-42CC-993E-26930E17969F}
+	EndGlobalSection
+EndGlobal
