@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+asgiref = "3.2.10"
+atomicwrites = "1.4.0"
+attrs = "19.3.0"
+colorama = "0.4.3"
+dj-database-url = "0.5.0"
+Django = "2.2.13"
+gunicorn = "20.0.4"
+importlib-metadata = "1.6.1"
+more-itertools = "8.4.0"
+packaging = "20.4"
+pluggy = "0.13.1"
+psycopg2 = "2.8.5"
+py = "1.8.2"
+pyparsing = "2.4.7"
+pytest = "5.4.3"
+python-dotenv = "0.13.0"
+pytz = "2020.1"
+six = "1.15.0"
+sqlparse = "0.3.1"
+wcwidth = "0.2.4"
+zipp = "3.1.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3"
